@@ -10,7 +10,7 @@ This app will work as a simple calculator in Python. Download the script and giv
 
 ======
 
-# I have taken a java programming course as well, so I am going to use my prior knowledge to assist with this task.
+##### I have taken a java programming course as well, so I am going to use my prior knowledge to assist with this task.
 [This is a website I have read over, but did not copy. I am citing it as a precaution.](https://www.digitalocean.com/community/tutorials/how-to-make-a-calculator-program-in-python-3)
 
 ```python
