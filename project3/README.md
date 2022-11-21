@@ -6,7 +6,7 @@
 
 ======
 
-This is an improvement to the simple calculator that I did for Project 1. All you need to do is download the script and run it in Python. The goal of this script is to be a calculator that can be used for a variety of operations. I have now added exponents to the script, modulus (finding remainder), and have now made the script allow for up to 6 numbers using addition, subtraction, multiplication, and division. It is very simple to use, and I plan to continue adding to this script when I learn even more.
+This is an improvement to the simple calculator that I did for Project 1 + 2. All you need to do is download the script and run it in Python. The goal of this script is to be a calculator that can be used for a variety of operations. I have now commented the code as well as completely restructured the code. Now the calculator will allow you to input as many integers as you want, with a prompt to ask if finished. On top of actually restructuring all of my previous code, I have added floor division to the code as well. Now the script contains all of the operators that Python has available, and allows for infinite input to the operators.
 
 ======
 
